@@ -1,0 +1,9 @@
+{
+  "productos": [
+    { "id": "1", "nombre": "Camiseta Básica", "precio": 25.99, "categoria": "Camisetas", "disponible": true, "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300" },
+    { "id": "2", "nombre": "Jeans Slim Fit", "precio": 59.99, "categoria": "Pantalones", "disponible": true, "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=300" },
+    { "id": "3", "nombre": "Vestido Floral", "precio": 45.00, "categoria": "Vestidos", "disponible": false, "imagen": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=300" },
+    { "id": "4", "nombre": "Chaqueta de Cuero", "precio": 120.00, "categoria": "Chaquetas", "disponible": true, "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=300" },
+    { "id": "5", "nombre": "Sudadera con Capucha", "precio": 39.99, "categoria": "Sudaderas", "disponible": false, "imagen": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=300" }
+  ]
+}
